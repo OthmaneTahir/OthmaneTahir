@@ -19,8 +19,7 @@ I am a DevSecOps and Cloud Security enthusiast with over three years of experien
 - **Containers:** Docker, Kubernetes, Helm
 - **Monitoring:** Prometheus, Grafana, ELK Stack
 - **Cloud:** AWS, Azure, GCP
-
-## 🛠 Tech Stack
+
 
 ## 🛠 Tech Stack
 <p>
